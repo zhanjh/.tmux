@@ -1,6 +1,7 @@
 # .tmux
 
 ## Cheatsheets
+| short  | desc |
 | ---           | ---                            |
 | C+b "         | split pane horizontally.       |
 | C+b %         | split pane vertically.         |

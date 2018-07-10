@@ -2,34 +2,33 @@
 
 ## Cheatsheets
 
-* C+b "         # split pane horizontally.
-* C+b %         # split pane vertically.
-* C+b c         # (c)reate a new window.
-* C+b n         # move to the (n)ext window.
-* C+b p         # move to the (p)revious window.
-* C+b I         # Install plugins
-* C+b R         # reload tmux config
-* C+b d         # detach current session
-* C+b c         # create new session
-* C+b ?         # help
-* C+b $         # rename session
-* C+b ,         # rename window
-* C+b s         # list session
-* C+b w         # list window
-* C+b t         # show time
-* C+b arrow key # switch pane.
+| C+b "         | split pane horizontally.       |
+| C+b %         | split pane vertically.         |
+| C+b c         | (c)reate a new window.         |
+| C+b n         | move to the (n)ext window.     |
+| C+b p         | move to the (p)revious window. |
+| C+b I         | Install plugins                |
+| C+b R         | reload tmux config             |
+| C+b d         | detach current session         |
+| C+b c         | create new session             |
+| C+b ?         | help                           |
+| C+b $         | rename session                 |
+| C+b ,         | rename window                  |
+| C+b s         | list session                   |
+| C+b w         | list window                    |
+| C+b t         | show time                      |
+| C+b arrow key | switch pane.                   |
+
 * Hold Ctrl+b, don't release it and hold one of the arrow keys # resize pane.
 
-
-- C-b left      # go to the next pane on the left
-- C-b right     # (or one of these other directions)
-- C-b up
-- C-b down
-- C-b o         # go to the next pane (cycle through all of them)
-- C-b ;         # go to the ‘last’ (previously used) pane
-
-- C-b x         # kill the current pane
-- C-b q         # display pane numbers for a short while
+| C-b left  | go to the next pane on the left                 |
+| C-b right | (or one of these other directions)              |
+| C-b up    |                                                 |
+| C-b down  |                                                 |
+| C-b o     | go to the next pane (cycle through all of them) |
+| C-b ;     | go to the ‘last’ (previously used) pane         |
+| C-b x     | kill the current pane                           |
+| C-b q     | display pane numbers for a short while          |
 
 
 ## Build from source code

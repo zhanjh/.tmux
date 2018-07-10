@@ -21,7 +21,7 @@
 | C+b arrow key | switch pane.                   |
 
 * Hold Ctrl+b, don't release it and hold one of the arrow keys # resize pane.
-| | |
+| short | desc |
 | --------- | ----------------------------------------------- |
 | C-b left  | go to the next pane on the left                 |
 | C-b right | (or one of these other directions)              |

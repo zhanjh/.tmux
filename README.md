@@ -1,7 +1,7 @@
 # .tmux
 
 ## Cheatsheets
-| short  | desc |
+| Command       | desc                           |
 | ---           | ---                            |
 | C+b "         | split pane horizontally.       |
 | C+b %         | split pane vertically.         |
@@ -22,8 +22,8 @@
 
 * Hold Ctrl+b, don't release it and hold one of the arrow keys # resize pane.
 
-| short | desc |
-| --- | ----------------------------------------------- |
+|           |                                                 |
+| ---       | ---                                             |
 | C-b left  | go to the next pane on the left                 |
 | C-b right | (or one of these other directions)              |
 | C-b up    |                                                 |
